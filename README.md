@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- 🔭 I’m currently working on a book recommendation app<br><br>
-- 🌱 I’m currently learning about algorithm design and machine learning<br><br>
-- 💬 Ask me about Web Development
+- 🔭 I’m currently working on a machine learning agent to categorize clothing images<br><br>
+- 🌱 I’m currently learning about machine learning<br><br>
+- 💬 Ask me about algorithm design
 
 
 ## 🌐 Socials:
