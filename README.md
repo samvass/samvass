@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Morgan Stanley**
 
-- 👨‍💻 All of my projects are available at [https://samvass.github.io/](https://samvass.github.io/)
+- 👨‍💻 Checkout my personal website [https://samvass.github.io/](https://samvass.github.io/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1B9OhQhTwdIjljRKW3O48W14zq3Gqrekb/view](https://drive.google.com/file/d/1B9OhQhTwdIjljRKW3O48W14zq3Gqrekb/view)
 
